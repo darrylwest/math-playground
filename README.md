@@ -16,6 +16,8 @@ $f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$
 
 $\int_{a}^{b} f(x) \,dx = \lim_{n \to \infty} \sum_{i=1}^{n} f(x_i^*) \Delta x$
 
+
+## Includes notebooks and problems from King's calc 1,2
                                                                                 
 
 ###### dpw | 2025.11.07
