@@ -29,5 +29,26 @@ $|x - 4| < \frac{\epsilon}{2} $
 
 $\delta = \frac{\epsilon}{2}$
 
+### Combinations & Composites
+
+Combined with Arithmetic:
+
+$f(x) = x^3$
+$g(x) = x^2$
+
+$f(x) + g(x) = x^3 + x^2$
+
+Composite:
+
+$f(x) = sin(x)$
+$g(x) = x^2 + 2$
+
+$f(g(x)) = sin(x^2 + 2)$
+
+#### Limits of Combinations: Pg 23
+
+
+#### Limits of Composites
+
 
 ###### dpw | 2025.11.09
