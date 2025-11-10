@@ -4,7 +4,7 @@
 
 ### Formal Definition
 
-$\lim\limits_{x \to a} f(x) = L
+$\lim\limits_{x \to a} f(x) = L $
 
 $|f(x) - L| < \epsilon \text{ whenever } 0 < |x - z| < \delta$
 
